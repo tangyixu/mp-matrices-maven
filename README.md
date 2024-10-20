@@ -4,22 +4,17 @@ A project for CSC-207.
 
 Authors:
 
-* Your Name Here
+* Tiffany Tang
 * Samuel A. Rebelsky (starter code)
 
 ---
 
 Overview:
 
-PLEASE PROVIDE AN OVERVIEW OF THE PROJECT FOR THOSE WHO MIGHT NOT
-OTHERWISE UNDERSTAND IT.
+It creates a matrice structure with rows and columns.
 
 ---
 
-Citations:
-
----
-
-This code may be found at <https://github.com/USERID/mp-matrices-maven>. 
+This code may be found at <https://github.com/tangyixu/mp-matrices-maven.git>. 
 
 The original code may be found at <https://github.com/Grinnell-CSC207/mp-matrices-maven>.
