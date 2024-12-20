@@ -1,0 +1,5 @@
+
+Change
+
+1) Completed unimplemented methods in Matrix and MatrixVO.
+2) Fixed styles.
